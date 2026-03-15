@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Usman Khan
 
-<!--
-**usmanpkhan8-bot/usmanpkhan8-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year BTech Student  
+Computer Science & Business Systems
 
-Here are some ideas to get you started:
+💻 Skills
+- Python
+- Machine Learning
+- Data Analysis
+- Power BI
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Projects
+- UPI Fraud Detection using Machine Learning
+- Credit Card Fraud Detection
+- Data Analytics Dashboard
+
+🚀 Currently Learning
+- Deep Learning
+- AI Systems
+- Data Science
+
+📫 Connect with me
+LinkedIn: https://linkedin.com/in/patan-usman-khan-20390a280  
+GitHub: https://github.com/usmankhan8-bot
