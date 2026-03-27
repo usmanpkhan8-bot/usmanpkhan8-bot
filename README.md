@@ -11,9 +11,12 @@ Computer Science & Business Systems
 - SQL
 
 📊 Projects
+- An Enhanced AI-Based Agricultural Risk &
+  Insurance Trigger System
 - UPI Fraud Detection using Machine Learning
 - Credit Card Fraud Detection
 - Data Analytics Dashboard
+  
 
 🚀 Currently Learning
 - Deep Learning
